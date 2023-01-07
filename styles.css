@@ -8,7 +8,7 @@
 .banner {
     height: 700px;
     left: 20px;
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('../images/banner/banner3.png');
     background-size: cover;
     display: flex;
     margin-bottom: 100px;
